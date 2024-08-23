@@ -54,5 +54,5 @@ jobs:
           context: .
           platforms: linux/arm64
           push: ${{ github.event_name != 'pull_request' }}
-          tags: ghcr.io/nourchawebi/chatbotPython:1.1.${{ github.run_number }}
+          tags: ghcr.io/nourchawebi/chatbotpython:1.1.${{ github.run_number }}
          # labels: ${{ steps.meta.outputs.labels }}
