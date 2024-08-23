@@ -2,7 +2,7 @@
 FROM python:3.7 AS builder
 
 # Set the working directory in the container
-WORKDIR /app/python
+WORKDIR /app/chatbot-python-image-ci
 
 # Copy the requirements file and install dependencies
 COPY ./requirements.txt /app/requirements.txt
