@@ -1,9 +1,10 @@
 name: buildDockerImageARM
 
 on:
-  push:
-    tags:
-      - "v*.*.*"
+  push: 
+   branches: [ "main" ]
+ #   tags:
+  #    - "v*.*.*"
   # pull_request:
   #   branches:
   #     - "master"
@@ -22,7 +23,7 @@ jobs:
         with:
           # list of Docker images to use as base name for tags
           images: |
-            ghcr.io/nourchawebi/chatbotPython
+            ghcr.io/nourchawebi/chatbotPython:1.1.${{ github.run_number }}
           # generate Docker tags based on the following events/attributes
           tags: |
             type=schedule
