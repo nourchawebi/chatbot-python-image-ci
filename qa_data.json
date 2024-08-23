@@ -1,0 +1,86 @@
+{
+  "questions":[
+    {
+    "question":"what is your name",
+    "answer":"My name is ChatBot."
+    },
+    {
+    "question":"how are you",
+    "answer":"I'm doing well, thank you!"
+    },
+    {
+      "question":"Hello",
+      "answer":"Hi there!"
+    },
+    
+      {
+      "question": "How are things going with you?",
+      "answer": "I'm doing well, thank you!"
+      },
+      {
+        "question": "How's your day been so far?",
+        "answer": "I'm doing well, thank you!, It's been pretty busy but productive."
+        }
+        ,
+        {
+        "question": "Any exciting plans for the weekend?",
+        "answer": "I'm doing well, thank you!, Yes, I'm planning to go hiking with some friends."
+        }
+        ,
+        {
+        "question": "Have you been busy lately?",
+        "answer": "I'm doing well, thank you!, Yes, I've had a lot on my plate recently."
+        },
+        {
+          "question":"What is 9antra the bridge?",
+          "answer":"9antra the bridge is a premier training center that offers a variety of specialized courses in technology and digital skills. Our curriculum is designed to equip students with the latest knowledge and practical skills in fields like DevOps, MERN stack development, Angular, Spring Boot, Artificial Intelligence (AI), Business Intelligence (BI), Flutter, and Digital Marketing. We focus on providing hands-on experience through our comprehensive training programs."
+        },
+        {
+          "question":"What courses are available at 9antra the bridge?",
+          "answer":"At 9antra the bridge, we offer a wide range of courses tailored to meet the demands of the modern workforce. Our offerings include training in DevOps, MERN stack (MongoDB, Express.js, React, Node.js), Angular for front-end development, Spring Boot for Java-based backend development, Artificial Intelligence, Business Intelligence, Flutter for mobile app development, and Digital Marketing strategies. Each course is designed to provide both theoretical knowledge and practical application."
+        },
+        {
+          "question":"Does 9antra the bridge offer any certified programs?",
+          "answer":"Yes, 9antra the bridge offers a certified summer internship program. This program is integrated into our training courses and is designed to provide students with real-world experience in their chosen field of study. Upon completion, participants receive a certification that acknowledges their skills and practical experience, which can be a valuable addition to their professional portfolio."
+        },
+        {
+          "question":"How long is the training at 9antra the bridge?",
+          "answer":"The training program at 9antra the bridge lasts for 2 months. Each week, students engage in 6 hours of training, which is divided into 4 hours for courses and 2 hours for follow-up sessions. This structure ensures that students receive comprehensive instruction while also having dedicated time to review and reinforce what they've learned."
+        },
+        {
+          "question":"How is the training schedule structured at 9antra the bridge?",
+          "answer":"The training schedule at 9antra the bridge is carefully structured to optimize learning. Each week, students participate in 4 hours of course instruction, followed by 2 hours of follow-up sessions. This 6-hour weekly commitment is designed to provide a balanced learning experience over the course of 2 months, allowing students to progress steadily while receiving continuous support from our instructors."
+        },
+        {
+          "question":"What is the summer internship at 9antra the bridge?",
+          "answer":"The summer internship at 9antra the bridge is a certified program that runs alongside our regular training courses. This internship is designed to provide students with practical, hands-on experience in their field of study. Over the course of 2 months, students apply the knowledge gained from their training to real-world projects, under the guidance of experienced mentors. The program concludes with the awarding of a certification, which highlights the student's accomplishments and practical skills."
+        },
+        {
+          "question":"Where is 9antra the bridge located?",
+          "answer":"9antra the bridge is located in Tunisia at L'Berges du Lac 1,near Carthage Land (Level 1). Our center is conveniently situated to be easily accessible for students."
+        },
+        {
+          "question":"How can I contact 9antra the bridge?",
+          "answer":"You can contact 9antra the bridge by phone at 58 840 064 or via email at Contact@9antra.tn. We are here to answer any questions you may have about our programs and services."
+        },
+        {
+          "question":"Who are the instructors at 9antra the bridge?",
+          "answer":"The instructors at 9antra the bridge are highly experienced professionals in their respective fields. They use a teaching method that is 99% practical, focusing on real-world projects to ensure that students gain hands-on experience. Our coaches are patient and dedicated to helping each student succeed, providing personalized guidance and support throughout the training. This approach helps students build confidence and apply their skills in real-world situations."
+        },
+        {
+          "question":"How can I participate in training at 9antra the bridge?",
+          "answer":"To participate in training at 9antra the bridge, you can find the 'Training' section on our homepage. Alternatively, there is a form located at the bottom of the homepage where you can fill out your details to express your interest and get more information."
+        },
+        {
+          "question":"How can I find the calendar of sessions at 9antra the bridge?",
+          "answer":"To find the calendar of sessions at 9antra the bridge, go to the dashboard and select 'Calendar.' There, you can view both expired and upcoming sessions. If a session is currently live, you can join it by clicking the 'Join' button. Additionally, you can chat in the group specified for the training you paid for."
+        }
+        ,
+        {
+          "question":"How can I pay for training at 9antra the bridge?",
+          "answer":"You can pay for training at 9antra the bridge either online or on-site. For online payments, you will find options on our website when you submit the training form. If you prefer to pay on-site, you can choose from several payment options. Detailed payment instructions will appear on the confirmation page after you submit your training form."
+        }
+        
+        
+  ]
+}
