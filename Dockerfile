@@ -2,7 +2,7 @@
 FROM python:3.7 AS builder
 
 # Set the working directory in the container
-WORKDIR /app
+WORKDIR /app/python
 
 # Copy the requirements file and install dependencies
 COPY ./requirements.txt /app/requirements.txt
